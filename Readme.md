@@ -1,7 +1,8 @@
 # Личный проект «Техномарт»
 
 * Студент: [Адам Абубакаров](https://up.htmlacademy.ru/htmlcss/27/user/1179149).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Непорада](https://htmlacademy.ru/profile/maxim_neporada).
+.
 
 ---
 

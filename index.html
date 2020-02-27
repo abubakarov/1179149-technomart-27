@@ -7,8 +7,11 @@
   <body>
     <header>
       <div>
-        <a><img src="img/shared/logo.svg" alt="Лого"></a>
-        <div>Поиск</div>
+        <a><img src="img/shared/logo.svg" alt="Логотип Техномарт"></a>
+        <form action="#">
+          <label for="menu-top__search">Поиск:</label>
+          <input type="search" name="site-search" id="menu-top__search">
+        </form>
         <ul>
           <li><a href="#">Закладки:</a></li>
           <li><a href="#">Корзина:</a></li>
@@ -29,6 +32,18 @@
           <li><a href="#">Войти</a></li>
           <li><a href="#">Регистрация</a></li>
         </ul>
+        <div>
+          <form action="#">
+            <a href="#">Закрыть</a>
+            <input type="text" name="login" id="" placeholder="Логин">
+            <input type="password" name="password" id="" placeholder="Пароль">
+            <label>
+              <input type="checkbox" name="remember" id=""> Запомните меня
+            </label>
+            <a href="#">Я забыл пароль</a>
+            <input type="submit" value="Войти">
+          </form>
+        </div>
       </div>
       <nav>
         <ul>
